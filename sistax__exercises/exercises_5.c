@@ -21,9 +21,9 @@ int main() {
 
     *sintaxis
 
-     tipo nombreVariable = valor
+    tipo nombreVariable = valor
 
-     Donde tipo es uno de los tipos de variables de C (como int) y nombreVariable es el nombre de la variable (como x miNombre)
+  Donde tipo es uno de los tipos de variables de C (como int) y nombreVariable es el nombre de la variable (como x miNombre)
 . El signo = se utiliza para asignar el valor de una variable.
  */
 
